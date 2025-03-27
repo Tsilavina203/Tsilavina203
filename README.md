@@ -7,7 +7,6 @@
 ## 🛠️ Compétences techniques
 - **Langages :**
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell-%2314354C.svg?style=flat&logo=gnu-bash&logoColor=white)
@@ -29,6 +28,9 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
+- ** Cloud :**
+![Qdrant](https://img.shields.io/badge/Qdrant-%2300568A.svg?style=flat&logo=qdrant&logoColor=white)
+
 - **Bases de données :**
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
@@ -44,15 +46,15 @@
        <th>✨Top Langage</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=dannidotcom&show_icons=true&theme=radical"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannidotcom&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Tsilavina203&show_icons=true&theme=radical"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsilavina203&langs_count=10&theme=merko&layout=compact&hide=html"> </td>
    </table>
 </p>
 
 ---
 
 ## 🏆 Trophées GitHub
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=dannidotcom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Tsilavina203&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
